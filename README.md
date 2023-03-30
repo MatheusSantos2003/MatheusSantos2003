@@ -9,8 +9,6 @@ Entre em contato comigo:
 - Email: mtssantos.contato@gmail.com
 - linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 
-### Estastisticas do meu github
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ### Linguagens de Programação:
 
