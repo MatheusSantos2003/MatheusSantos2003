@@ -2,8 +2,7 @@ Português
 
 ## Olá, Eu me chamo Matheus Santos
 
-Eu sou um desenvolvedor júnior curioso e entusiasmado que ama estudar programação, eu moro em Guaratinguetá-São Paulo. Atualmente estou cursando Análise e Desenvolvimento de Sistemas Pela Faculdade Tecnológica de Guaratinguetá Professor João Mod
-Entusiasta de JavaScript, TypeScript, Angular, C#, .NET CORE, NodeJS, Flutter
+Desenvolvedor com mais de 2 anos de experiencia no mercado, formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Guaratinguetá, Atuo principalmente com JavaScript,Typescript, Angular, NodeJS e Flutter
 
 Entre em contato comigo:
 
@@ -11,7 +10,7 @@ Entre em contato comigo:
 - linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 
 ### Estastisticas do meu github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens de Programação:
 
@@ -23,6 +22,7 @@ Entre em contato comigo:
 ### Frameworks e bibliotecas:
 
  - Angular
+ - RxJS
  - NodeJS
  - NestJS
  - Nx Workspaces
@@ -34,4 +34,5 @@ Entre em contato comigo:
  - Microsoft SQL Server
  - MongoDB
  - Firebase
+ - FireStore
  
