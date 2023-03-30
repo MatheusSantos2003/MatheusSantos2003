@@ -10,7 +10,7 @@ Entre em contato comigo:
 - linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 
 ### Estastisticas do meu github
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheussantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheussantos2003&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
 
 ### Linguagens de Programação:
 
