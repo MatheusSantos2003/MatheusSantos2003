@@ -9,7 +9,6 @@ Entre em contato comigo:
 - Email: mtssantos.contato@gmail.com
 - linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 
-
 ### Linguagens de Programação:
 
  - JavaScript
