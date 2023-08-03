@@ -1,35 +1,32 @@
-Português 
+# Hi there, I'm Matheus Santos 👋
 
-## Olá, Eu me chamo Matheus Santos
+I'm a developer with over 2 years of experience in the industry. I hold a degree in Systems Analysis and Development from the Guaratinguetá College of Technology. My primary focus is on JavaScript, TypeScript, Angular, NodeJS, and Flutter.
 
-Desenvolvedor com mais de 2 anos de experiencia no mercado, formado em Análise e Desenvolvimento de Sistemas pela Faculdade de Tecnologia de Guaratinguetá, Atuo principalmente com JavaScript,Typescript, Angular, NodeJS e Flutter
-
-Entre em contato comigo:
+## 📫 Get in Touch
 
 - Email: mtssantos.contato@gmail.com
-- linkedIn: [Visitar](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
+- LinkedIn: [Visit Profile](https://www.linkedin.com/in/matheus-henrique-dos-santos-1031711a1/)
 
-### Linguagens de Programação:
+## 💻 Programming Languages
 
- - JavaScript
- - TypeScript
- - CSS
- - C#
- 
-### Frameworks e bibliotecas:
+- JavaScript
+- TypeScript
+- CSS
+- C#
 
- - Angular
- - RxJS
- - NodeJS
- - NestJS
- - Nx Workspaces
- - Flutter (BLoC Patterns,dio)
+## 🚀 Frameworks and Libraries
 
- 
- ### Bancos de dados e Cloud Services:
- - MySQL
- - Microsoft SQL Server
- - MongoDB
- - Firebase
- - FireStore
- 
+- Angular
+- RxJS
+- NodeJS
+- NestJS
+- Nx Workspaces
+- Flutter (BLoC Patterns, dio)
+
+## ☁️ Databases and Cloud Services
+
+- MySQL
+- Microsoft SQL Server
+- MongoDB
+- Firebase
+- Firestore
