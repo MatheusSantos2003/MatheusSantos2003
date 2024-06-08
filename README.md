@@ -1,6 +1,10 @@
 # Hi there, I'm Matheus Santos 👋
 
-I'm a developer with over 3 years of experience in the industry. I hold a degree in Systems Analysis and Development from the Guaratinguetá College of Technology. My primary focus is on JavaScript, TypeScript, Angular, NodeJS, and Flutter.
+I'm a developer with over 3 years of experience in the industry. I hold a degree in Systems Analysis and Development from the Guaratinguetá College of Technology. My primary focus is on JavaScript, TypeScript, Angular, NodeJS, AND .NET
+I also have exeperience with Python and Django and Cloud Services
+
+
+Looking to learn more about Cloud, AWS and Blockchain.
 
 ## 📫 Get in Touch
 
@@ -21,8 +25,7 @@ I'm a developer with over 3 years of experience in the industry. I hold a degree
 - NodeJS
 - NestJS
 - Nx Workspaces
-- Flutter (BLoC Patterns, dio)
-
+- .NET
 ## ☁️ Databases and Cloud Services
 
 - MySQL
@@ -30,3 +33,4 @@ I'm a developer with over 3 years of experience in the industry. I hold a degree
 - MongoDB
 - Firebase
 - Firestore
+- Google Cloud Provider
