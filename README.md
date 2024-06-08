@@ -1,6 +1,6 @@
 # Hi there, I'm Matheus Santos 👋
 
-I'm a developer with over 2 years of experience in the industry. I hold a degree in Systems Analysis and Development from the Guaratinguetá College of Technology. My primary focus is on JavaScript, TypeScript, Angular, NodeJS, and Flutter.
+I'm a developer with over 3 years of experience in the industry. I hold a degree in Systems Analysis and Development from the Guaratinguetá College of Technology. My primary focus is on JavaScript, TypeScript, Angular, NodeJS, and Flutter.
 
 ## 📫 Get in Touch
 
